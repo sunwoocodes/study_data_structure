@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="stack_Assignment_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="stack.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
