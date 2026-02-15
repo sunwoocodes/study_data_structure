@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="stack.c" />
     <ClCompile Include="stack_Assignment_1.c" />
+    <ClCompile Include="stack_Assignment_2.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

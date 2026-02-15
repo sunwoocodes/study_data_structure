@@ -1,4 +1,6 @@
-	#include <stdio.h>
+#if 0	
+
+#include <stdio.h>
 	#include <stdlib.h>
 	#define SIZE 100
 	
@@ -68,3 +70,5 @@
 		printf("\npop: %d\n", pop(&s));
 		return 0;
 	}
+
+#endif

@@ -21,6 +21,9 @@
     <ClCompile Include="stack.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stack_Assignment_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
