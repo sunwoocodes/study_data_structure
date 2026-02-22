@@ -30,6 +30,15 @@
     <ClCompile Include="stack_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="linear_queue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="circular_queue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="deque.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

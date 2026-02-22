@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="circular_queue.c" />
+    <ClCompile Include="deque.c" />
+    <ClCompile Include="linear_queue.c" />
     <ClCompile Include="stack.c" />
     <ClCompile Include="stack_2.c" />
     <ClCompile Include="stack_3.c" />
